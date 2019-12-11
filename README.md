@@ -6,7 +6,7 @@ voter identification requirements can effect voter efficacy so showing requireme
 * [source 1] (https://www.usa.gov/voter-id)
 * [source 2] (https://ballotpedia.org/Voter_identification_laws_by_state)
 
-My current map is just a basic visualization and upon making it I realized I would rather make a slippy map that can be interacted with. This way states can be visualized more easily, I can provide more information when a user interacts with the state, and so in. That being said, this is not reflective of what the final product will be. (If you are reading this at a time where there is an interactive map then please disregard this statement.)
+My current map is just a basic visualization and upon making it I realized I would rather make a slippy map that can be interacted with. This way states can be visualized more easily, I can provide more information when a user interacts with the state, and so on. That being said, this is not reflective of what the final product will be. (If you are reading this at a time where there is an interactive map then please disregard this statement.)
 
 * Final map will be interactive 
 * Final map will not be grayscale 
